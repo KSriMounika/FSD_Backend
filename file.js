@@ -16,6 +16,7 @@ const myfun = async() => {
     const result = await getUserDetails("35");
     console.log(result);
     console.log("456");
+    console.log("456");
     
     
 };

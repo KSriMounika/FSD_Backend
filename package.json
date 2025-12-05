@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KSriMounika/FSD_Backend/issues"
   },
-  "homepage": "https://github.com/KSriMounika/FSD_Backend#readme"
+  "homepage": "https://github.com/KSriMounika/FSD_Backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
